@@ -1,0 +1,3 @@
+/Users/kyriakos1/DMT/Synbiotix/Mobile/Client/MobileApps/DMT/Bindings/MBProgressHUD/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kyriakos1/DMT/Synbiotix/Mobile/Client/MobileApps/DMT/Bindings/MBProgressHUD/bin/Release/MBProgressHUD.dll
+/Users/kyriakos1/DMT/Synbiotix/Mobile/Client/MobileApps/DMT/Bindings/MBProgressHUD/obj/Release/MBProgressHUD.dll

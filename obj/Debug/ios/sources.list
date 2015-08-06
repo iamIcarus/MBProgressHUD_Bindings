@@ -1,0 +1,7 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/MBProgressHUD/MTMBProgressHUD.g.cs
+obj/Debug/ios/MBProgressHUD/MBProgressHUDDelegate.g.cs
+obj/Debug/ios/MBProgressHUD/MBRoundProgressView.g.cs
+obj/Debug/ios/MBProgressHUD/MBBarProgressView.g.cs
+obj/Debug/ios/SupportDelegates.g.cs
+obj/Debug/ios/ObjCRuntime/Trampolines.g.cs

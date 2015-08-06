@@ -1,0 +1,5 @@
+/Users/kyriakos1/Documents/Xamarin Projects/MenuPick/MBProgressHUD/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kyriakos1/Documents/Xamarin Projects/MenuPick/MBProgressHUD/bin/Debug/MBProgressHUD.dll.mdb
+/Users/kyriakos1/Documents/Xamarin Projects/MenuPick/MBProgressHUD/bin/Debug/MBProgressHUD.dll
+/Users/kyriakos1/Documents/Xamarin Projects/MenuPick/MBProgressHUD/obj/Debug/MBProgressHUD.dll
+/Users/kyriakos1/Documents/Xamarin Projects/MenuPick/MBProgressHUD/obj/Debug/MBProgressHUD.dll.mdb
